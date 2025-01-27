@@ -1,4 +1,5 @@
 name: Build project
+run-name: ${{ github.actor }} built new version of his game 🚀
 
 on: [push]
 
