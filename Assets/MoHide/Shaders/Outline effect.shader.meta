@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d068c843c6fb954a913fb55e3a398e5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Shaders/Outline effect.shader
+  uploadId: 540984

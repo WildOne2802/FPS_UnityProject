@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf20cee851d21f640acd080c2e3b4c0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scripts/Player/Cursorehide.cs
+  uploadId: 540984

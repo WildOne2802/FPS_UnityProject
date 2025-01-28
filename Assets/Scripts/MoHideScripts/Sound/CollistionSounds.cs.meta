@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9e3a762e412f9d4fbb341606a52a410
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scripts/Sound/CollistionSounds.cs
+  uploadId: 540984

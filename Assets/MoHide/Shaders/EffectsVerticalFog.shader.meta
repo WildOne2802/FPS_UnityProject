@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6c3bd9c6c531764a8cde16523f11e7a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Shaders/EffectsVerticalFog.shader
+  uploadId: 540984

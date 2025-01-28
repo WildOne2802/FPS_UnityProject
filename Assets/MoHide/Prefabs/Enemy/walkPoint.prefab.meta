@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f4db01a0b77087458693a53b4083370
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Enemy/walkPoint.prefab
+  uploadId: 540984

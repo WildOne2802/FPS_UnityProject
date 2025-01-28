@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f45352666b46a7547911726cf959b235
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Shaders/Grayscale.shader
+  uploadId: 540984

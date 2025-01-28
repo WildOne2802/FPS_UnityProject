@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2eb73fccfb0c024a81823597b0f24ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Props/Chair.prefab
+  uploadId: 540984

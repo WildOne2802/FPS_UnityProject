@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baeac415128c7ae4ea298ae22440209e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Materials/Effects/Gun/Muzzle flash material.mat
+  uploadId: 540984

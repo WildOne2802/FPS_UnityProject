@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a7e865e384f2ff428bba5b20ab5cceb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Shaders/Glass.shader
+  uploadId: 540984

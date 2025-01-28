@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 207f9937d8888f847bd18392c69241a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Animations/Enemy animations/Aim_Seeker.anim
+  uploadId: 540984

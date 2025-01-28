@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88af249d24de9004899c138b5209458e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Props/Lamp.prefab
+  uploadId: 540984

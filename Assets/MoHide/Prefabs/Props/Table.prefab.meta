@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d7c595513d36674b80670accd45b401
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Props/Table.prefab
+  uploadId: 540984

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c14a198bb45f5e54e8f660d39131cb84
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Animations/Animation controllers/Enemy Animator Controller.controller
+  uploadId: 540984

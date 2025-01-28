@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62839238fb267e74b9148a88adc2919a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Player/Camera holder.prefab
+  uploadId: 540984

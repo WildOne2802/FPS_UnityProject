@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d08545c4a3db34141ba1897046e5d1a3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Materials/Sky/Sky.mat
+  uploadId: 540984

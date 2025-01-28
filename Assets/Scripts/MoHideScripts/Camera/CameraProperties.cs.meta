@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 655c10fb1ce1d7446a23219eb282ac20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scripts/Camera/CameraProperties.cs
+  uploadId: 540984

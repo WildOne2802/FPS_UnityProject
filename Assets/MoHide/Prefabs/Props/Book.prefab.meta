@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35c9174e85e687f4aa6514ac6d6e912b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Props/Book.prefab
+  uploadId: 540984

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29973da394c9ad741a187ec18a23c109
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Effects/Transformation effect.prefab
+  uploadId: 540984

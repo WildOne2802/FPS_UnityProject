@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d223ef0f356f2784e982156d146a270a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Shaders/Fresnel effect.shader
+  uploadId: 540984

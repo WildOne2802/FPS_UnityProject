@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb2e195cd5d40204caa55e46ebc5fd64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Enemy/Seeker.prefab
+  uploadId: 540984

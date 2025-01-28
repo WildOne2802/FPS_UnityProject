@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 901f1d9c2ad150e48b2a3e2701ceed34
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Prefabs/Player/Player.prefab
+  uploadId: 540984

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02f0fdcc767006543b380629e4621733
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scripts/Animations/DoorAnimation.cs
+  uploadId: 540984
