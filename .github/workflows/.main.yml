@@ -12,6 +12,7 @@ jobs:
       matrix:
         targetPlatform:
           - StandaloneWindows64 # Build a Windows 64-bit standalone.
+          - StandaloneOSX # Build a macOS standalone (Intel 64-bit).
     steps:
       - uses: actions/checkout@v4
         with:

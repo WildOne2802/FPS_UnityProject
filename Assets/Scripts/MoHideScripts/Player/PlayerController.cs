@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
 using KeyMouse.MoHide;
+using Photon.Pun;
+using Photon.Realtime;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviourPunCallbacks
 {
     [SerializeField] private new Transform camera;
 
@@ -30,16 +32,42 @@ public class PlayerController : MonoBehaviour
     private const string MOVE_AMOUNT_ANIMATION_VARIABLE = "Move amount";
     private const string JUMP_ANIMATION_VARIABLE = "Jump";
 
+    Vector3 moveDirection;
+
+    PhotonView PV;
+
+    PlayerManager playerManager;
+
+    void Awake()
+    {
+        rb = GetComponent<Rigidbody>();
+        PV = GetComponent<PhotonView>();
+
+        playerManager = PhotonView.Find((int)PV.InstantiationData[0]).GetComponent<PlayerManager>();
+    }
+
+    void Start()
+    {
+        if (!PV.IsMine)
+        {
+            Destroy(GetComponentInChildren<Camera>().gameObject);
+            Destroy(rb);
+        }
+    }
+
     #region Performing
 
-    private void FixedUpdate()
+    private void Update()
     {
+        if (!PV.IsMine)
+            return;
+
         float vertical = Input.GetAxis("Vertical");
         float horizontal = Input.GetAxis("Horizontal");
 
         float moveAmount = Mathf.Clamp01(Mathf.Abs(vertical) + Mathf.Abs(horizontal));
         Vector3 forwardLook = new Vector3(camera.forward.x, 0, camera.forward.z);
-        Vector3 moveDirection = forwardLook * vertical + camera.right * horizontal;
+        moveDirection = forwardLook * vertical + camera.right * horizontal;
 
         Movement(moveDirection);
 
@@ -49,11 +77,16 @@ public class PlayerController : MonoBehaviour
         //Rotation
         moveDirection += camera.right * horizontal;
         RotationNormal(moveDirection);
+
+        Jump();
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
-        Jump();
+        if (!PV.IsMine)
+            return;
+
+        rb.MovePosition(rb.position + transform.TransformDirection(moveDirection) * Time.fixedDeltaTime);
     }
 
     #endregion
