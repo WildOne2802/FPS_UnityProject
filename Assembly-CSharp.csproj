@@ -65,10 +65,12 @@
     <Compile Include="Assets\Scripts\Menus\Launcher.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Menus\PlayerListItem.cs" />
+    <Compile Include="Assets\Scripts\Spawner\SpawnPoint.cs" />
     <Compile Include="Assets\Scripts\Menus\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerGroundCheck.cs" />
     <Compile Include="Assets\Scripts\Player\IDamageable.cs" />
+    <Compile Include="Assets\Scripts\Spawner\SpawnManager.cs" />
     <Compile Include="Assets\Scripts\Items\GunInfo.cs" />
     <Compile Include="Assets\Scripts\Menus\Menu.cs" />
     <Compile Include="Assets\Scripts\Items\ItemInfo.cs" />
@@ -102,6 +104,7 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Photon\PhotonLibs\Metro\Photon3Unity3D.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\OccaSoftware\Crosshairs\Readme.txt" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -1168,6 +1171,10 @@
     <ProjectReference Include="PhotonChat.csproj">
       <Project>{6933DBF6-F4A1-9D75-C160-B36F8E1BCA8F}</Project>
       <Name>PhotonChat</Name>
+    </ProjectReference>
+    <ProjectReference Include="OccaSoftware.Crosshairs.Editor.csproj">
+      <Project>{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}</Project>
+      <Name>OccaSoftware.Crosshairs.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
       <Project>{0CF08267-0D94-5E1D-8596-EEF8C3DDF7BD}</Project>

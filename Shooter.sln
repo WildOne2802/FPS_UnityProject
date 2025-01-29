@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities", "PhotonUnityNetworking.Utilities.csproj", "{553C2F3A-439C-3CCD-9DE7-1EC15B7C2A0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Crosshairs.Editor", "OccaSoftware.Crosshairs.Editor.csproj", "{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities.Culling.Editor", "PhotonUnityNetworking.Utilities.Culling.Editor.csproj", "{616E30BC-CF7C-EE1C-52D0-B063FCC06110}"
 EndProject
 Global
@@ -51,6 +53,10 @@ Global
 		{553C2F3A-439C-3CCD-9DE7-1EC15B7C2A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{553C2F3A-439C-3CCD-9DE7-1EC15B7C2A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{553C2F3A-439C-3CCD-9DE7-1EC15B7C2A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFCEAC5-04E2-2A0D-670B-D2B16B2F03B7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{616E30BC-CF7C-EE1C-52D0-B063FCC06110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{616E30BC-CF7C-EE1C-52D0-B063FCC06110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{616E30BC-CF7C-EE1C-52D0-B063FCC06110}.Release|Any CPU.ActiveCfg = Release|Any CPU
