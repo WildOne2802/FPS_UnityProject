@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Unity\\Shooter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Shooter\\Assets\\OccaSoftware\\Crosshairs\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\OccaSoftware\\Crosshairs\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Shooter\\Assets\\Scripts\\Items\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Readme.txt",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\OccaSoftware\\Crosshairs\\Readme.txt",
               "RelativeDocumentMoniker": "Assets\\OccaSoftware\\Crosshairs\\Readme.txt",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Launcher.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Menus\\Launcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\Launcher.cs",
@@ -87,12 +87,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Menus\\Launcher.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:02:39.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T08:02:39.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Spawner\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner\\SpawnManager.cs",
@@ -100,12 +99,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawner\\SpawnManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:51:28.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T07:51:28.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SpawnPoint.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Spawner\\SpawnPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner\\SpawnPoint.cs",
@@ -113,12 +111,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawner\\SpawnPoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:49:24.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T07:49:24.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SingleShotGun.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Items\\SingleShotGun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\SingleShotGun.cs",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Items\\SingleShotGun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:32:56.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T06:32:56.526Z"
             },
             {
               "$type": "Document",
@@ -139,12 +135,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Items\\Gun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:30:55.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T06:30:55.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IDamageable.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\IDamageable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\IDamageable.cs",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\IDamageable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:10:39.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T06:10:39.911Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Items\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T05:49:17.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T05:49:17.122Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Items\\GunInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T05:38:29.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T05:38:29.334Z"
             },
             {
               "$type": "Document",
@@ -207,20 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ToolTip": "D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T05:01:46.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "D:\\Unity\\Shooter\\Assets\\Scripts\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerManager.cs",
@@ -228,8 +220,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T04:51:02.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T04:51:02.044Z"
             }
           ]
         }
