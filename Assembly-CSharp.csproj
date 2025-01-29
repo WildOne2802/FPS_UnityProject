@@ -60,32 +60,14 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\MoHideScripts\Sound\CollistionSounds.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Hide scripts\HideObject.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\UI\HealthBar.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Menus\RoomListItem.cs" />
     <Compile Include="Assets\Scripts\Menus\Launcher.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Post processing\ColorGrading.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Hide scripts\HidingCharacter.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Camera\CameraProperties.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Menus\PlayerListItem.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Enemy\Enemy.cs" />
     <Compile Include="Assets\Scripts\Menus\MenuManager.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Animations\DoorAnimation.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Effects\PropMimicParticlesEffect.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Enemy\Weapon.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Camera\CameraHandler.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\UI\DeathPanel.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Enemy\WalkPoint.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Player\Cursorehide.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Apartment\EnemySpawn.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Animations\SpawnAnimation.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\UI\CountDown.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerGroundCheck.cs" />
     <Compile Include="Assets\Scripts\Menus\Menu.cs" />
-    <Compile Include="Assets\Scripts\MoHideScripts\Audio\AudioPlayer.cs" />
     <Compile Include="Assets\Scripts\Menus\RoomManager.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -95,13 +77,10 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\Photon\PhotonUnityNetworking\changelog.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\MoHide\Shaders\Fresnel effect.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Assets\MoHide\Shaders\Grayscale.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
-    <None Include="Assets\MoHide\Shaders\EffectsVerticalFog.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -113,13 +92,10 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Photon\PhotonUnityNetworking\readme.txt" />
     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.dll" />
-    <None Include="Assets\MoHide\Shaders\Glass.shader" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.dll" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Photon\PhotonLibs\Metro\Photon3Unity3D.dll" />
-    <None Include="Assets\MoHide\Shaders\Toon Complete.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\MoHide\Shaders\Outline effect.shader" />
     <None Include="Assets\Photon\PhotonLibs\Photon3Unity3D.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
