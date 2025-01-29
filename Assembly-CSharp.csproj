@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Menus\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerGroundCheck.cs" />
+    <Compile Include="Assets\Scripts\Player\IDamageable.cs" />
     <Compile Include="Assets\Scripts\Items\GunInfo.cs" />
     <Compile Include="Assets\Scripts\Menus\Menu.cs" />
     <Compile Include="Assets\Scripts\Items\ItemInfo.cs" />
