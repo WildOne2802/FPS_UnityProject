@@ -95,6 +95,11 @@ public class PlayerController : MonoBehaviourPunCallbacks, IDamageable
             }
         }
 
+        if (Input.GetMouseButtonDown(0))
+        {
+            items[itemIndex].Use();
+        }
+
         if (transform.position.y < -20f)
         {
             Die();
